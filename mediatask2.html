@@ -1,0 +1,66 @@
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+
+/* .one{
+    background-color: black;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+@media screen and (max-width:600px){
+    .one{
+        float: none;
+    }
+} */
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.one{
+    flex-basis: 20%;
+    height: 100px;
+    margin: 5px;
+    background-color: yellow
+    ;
+}
+
+
+
+@media screen and (max-width:800px){
+ .one {
+    flex-basis: 40%;
+ }
+    
+}
+
+@media screen and (max-width:600px){
+ .one {
+    flex-basis: 100%;
+ }
+    
+}
+
+</style>
+
+
+    <!-- <div>
+        <div class="one"></div>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem qui provident earum dolorum sunt doloremque eum consectetur aspernatur adipisci deserunt sit, dolore temporibus asperiores dolorem voluptates aliquam cupiditate nostrum cumque.</p>
+        
+    </div> -->
+
+
+    <div class="container">
+        <div class="one"></div>
+        <div class="one"></div>
+        <div class="one"></div>
+        <div class="one"></div>
+        
+    </div>

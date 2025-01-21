@@ -1,0 +1,21 @@
+.one{
+    color: black;
+}
+
+.two{
+    color:blue;
+} 
+
+
+ #one{
+    color: darkmagenta;
+}
+
+#two{
+    color:blue;
+} 
+
+*{
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,115 @@
+
+
+/* h1{
+    background-color: red;
+     display: block; 
+    display: inline;
+    width: 600px;
+    height: 500px;
+} */
+
+
+  /* h1 display blocka iruntha full width edukkum
+    h1 display: inline la irutha content size edukkum height width set panna mudiyathu
+    h1 display: inline-block la irutha content size edukkum height width set panna mudium */
+
+
+/* p{
+    background-color: purple;
+}
+
+span{
+    background-color: blue;
+} */
+
+/* excercise-2 */
+
+/* h1{
+    background-color: red;
+    display: inline;
+}
+
+p{
+    background-color: purple;
+    display: inline;
+}
+
+h2{
+    background-color: yellow;
+    
+}
+
+div{
+    background-color: peru;
+    display: inline;
+} */
+
+
+/* excercise-3 */
+
+/* h1{
+    display: inline;
+    background-color: blue;
+}
+
+p{
+    background-color: brown;
+}
+div{
+    display: inline-block;
+    background-color: pink;
+    width: 500px;
+} */
+
+/* excercise-4 */
+
+/* .one{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    background-color: black;
+}
+
+.two{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    background-color:red;
+}
+
+h1{
+    display: inline;
+    background-color: yellow;
+}
+
+p{
+    display: inline;
+    background-color: red;
+} */
+
+
+/* excercise-5 */
+
+/* li{
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+} */
+
+/* excercise-6 */
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+li ,h1,ul{
+    display: inline;
+}
+
+ul{
+    margin-left: 60%;
+}

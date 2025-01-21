@@ -1,0 +1,45 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+ul{
+    color: gray;
+    
+}
+li{
+    display: inline;
+    text-align: center;
+}
+li:hover{
+    color: white;
+}
+
+
+.recepies{
+    text-align: center;
+}
+
+.box{
+    width: 200px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+
+.contact-details{
+    text-align: center;
+}
+
+center{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 20px;
+}
